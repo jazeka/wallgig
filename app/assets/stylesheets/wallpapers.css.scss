@@ -95,7 +95,9 @@
   @extend .list-inline;
   margin-bottom: 0;
 }
-
+.list-tags li{
+  margin: 0 5px 0 0;
+}
 .list-metadata {
   @extend .list-unstyled;
   margin: 0;
